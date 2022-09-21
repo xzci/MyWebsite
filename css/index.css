@@ -3,3 +3,7 @@ h1 {
   font-size: 50;
 }
 
+a:hover{
+  font-size: large;
+}
+
