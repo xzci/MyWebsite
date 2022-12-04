@@ -1,0 +1,33 @@
+.resume {
+  background-color: #3f3f3f;
+}
+
+.education-container {
+  display: flex;
+  padding: 10px 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.education {
+  padding: 25px 30px;
+  margin: 10px 20px 20px 20px;
+  font-size: 17px;
+  line-height: 1.5;
+  max-width: 700px;
+  width: calc(50% - 60px);
+}
+
+.education-provider {
+  font-size: 40px;
+}
+
+.education-provider a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.education-provider a:hover {
+  text-decoration: none;
+  color: #a882ff;
+}

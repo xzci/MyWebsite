@@ -1,0 +1,8 @@
+.finished {
+  text-decoration: line-through;
+  font-size: 30px;
+}
+
+.important {
+  color: red;
+}
